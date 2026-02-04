@@ -1,0 +1,2 @@
+# shift-manager
+work project
